@@ -355,6 +355,8 @@ body{
 /*-- //about --*/
 /*-- statistics --*/
 .statistics{
+	width:100%;
+	min-height: 320px;
 	background:url(../images/s2.jpg) no-repeat 0px 0px;
 	background-size:cover;
 }
@@ -521,8 +523,10 @@ body{
 /*-- //experience --*/
 /*-- feedback --*/
 .feedback{
+	width:100%;
+	min-height: 320px;
 	background:url(../images/3.jpg) no-repeat 0px 0px;
-	background:size:cover;
+	background-size:cover;
 }
 .feedback-top{
     padding: 1em;
